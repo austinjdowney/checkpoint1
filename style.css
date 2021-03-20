@@ -1,0 +1,28 @@
+.serif{
+    --font-family: serif;
+}
+
+.bg-main-img{
+    background-image: url(./New\ York\ bg.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 35vh;
+}
+
+.side-img{
+    background-size: cover;
+}
+
+@media only screen and (mid-width:576px){
+    .row{
+    position: relative;
+    }
+
+    .reasons-card-body{
+    position:absolute;
+    top: -5rem;
+    right: 9em;
+    }
+}
+
+
