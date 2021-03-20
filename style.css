@@ -1,5 +1,5 @@
 .serif{
-    --font-family: serif;
+    --font-family: Georgia;
 }
 
 .bg-main-img{
@@ -20,7 +20,7 @@
 
     .reasons-card-body{
     position:absolute;
-    top: -5rem;
+    top: -10rem;
     right: 9em;
     }
 }
