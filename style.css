@@ -1,5 +1,5 @@
-.serif{
-    --font-family: Georgia;
+.cursive {
+    font-family: cursive;
 }
 
 .bg-main-img{
@@ -14,14 +14,13 @@
 }
 
 @media only screen and (mid-width:576px){
-    .row{
-    position: relative;
+    .bg-main-img{
+        position: relative;
     }
-
     .reasons-card-body{
     position:absolute;
-    top: -10rem;
-    right: 9em;
+        top: -10rem;
+        right: 9rem;
     }
 }
 
