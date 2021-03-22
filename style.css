@@ -2,6 +2,13 @@
     font-family: cursive;
 }
 
+.info-card{
+    position:relative;
+}
+.info-card-header{
+    position:absolute;
+    top:-2rem;
+}
 .bg-main-img{
     background-image: url(./New\ York\ bg.jpg);
     background-size: cover;
